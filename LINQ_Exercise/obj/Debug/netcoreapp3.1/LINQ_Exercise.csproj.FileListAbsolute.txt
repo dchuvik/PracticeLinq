@@ -1,0 +1,14 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\bin\Debug\netcoreapp3.1\LINQ_Exercise.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\bin\Debug\netcoreapp3.1\LINQ_Exercise.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\bin\Debug\netcoreapp3.1\LINQ_Exercise.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\bin\Debug\netcoreapp3.1\LINQ_Exercise.runtimeconfig.dev.json
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\bin\Debug\netcoreapp3.1\LINQ_Exercise.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\bin\Debug\netcoreapp3.1\LINQ_Exercise.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\obj\Debug\netcoreapp3.1\LINQ_Exercise.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\obj\Debug\netcoreapp3.1\LINQ_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\obj\Debug\netcoreapp3.1\LINQ_Exercise.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\obj\Debug\netcoreapp3.1\LINQ_Exercise.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\obj\Debug\netcoreapp3.1\LINQ_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\obj\Debug\netcoreapp3.1\LINQ_Exercise.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\obj\Debug\netcoreapp3.1\LINQ_Exercise.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\LINQ_Exercise\LINQ_Exercise\obj\Debug\netcoreapp3.1\LINQ_Exercise.genruntimeconfig.cache
